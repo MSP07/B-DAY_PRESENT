@@ -81,3 +81,8 @@ body {
 #promise-message:hover, #next-level-message:hover {
     opacity: 0.8;
 }
+
+#interlock-image {
+    width: 150px; /* Adjust size as needed */
+    height: auto;
+}
